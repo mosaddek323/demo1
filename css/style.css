@@ -1,0 +1,143 @@
+img{
+    max-width: 100%;
+}
+body{
+    margin: 0;
+}
+header{box-shadow: 0px 7px 9px #d7d7d7;padding: 10px 0;}
+.wrapper{
+    width: 1250px;
+    margin: auto;
+    overflow: hidden;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+.logo img{}
+nav{
+    width: 80%;
+    float: left;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+nav ul li a{
+    font-size: 20px;
+    color: #050039;
+    text-decoration: none;
+    display: block;
+    padding: 10px 20px;
+}
+nav ul li a:hover{
+    color: #75d074;
+}
+section{}
+.about-section{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.about-section h1{
+    font-size: 80px;
+    color: #05003c;
+    margin: 0 auto;
+    max-width: 900px;
+}
+.about-section h1 span{
+    color: brown;
+    text-transform: capitalize;
+}
+.about-section p{
+    margin: 0;
+    color: #08003a;
+    font-size: 20px;
+}
+section img{
+    
+margin: auto;
+    
+display: block;
+    
+max-width: 600px;
+}
+
+
+.feature-section{
+    padding: 100px 0;
+}
+.column{
+    width: 50%;
+    float: left;
+}
+.feature{
+    padding: 13px;
+}
+.feature h2{
+    font-size: 75px;
+    color: #08003A;
+    margin: 0;
+}
+.feature h2 span{
+    color: #f58105;
+}
+.feature p{
+    margin: 0;
+    color: #08003a;
+    font-size: 20px;
+}
+.allign-right{
+    text-align: right;
+}
+.block-section{
+
+}
+
+
+
+
+
+.block-section{
+    padding: 30px;
+}
+.col{
+    width: 33.33%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.block{
+    padding: 15px;
+    box-shadow: 2px 3px 13px 0px #9c8e8ee6;
+    border-radius: 20px;
+}
+.block img{
+    width: 100%;
+    height: 350px;
+}
+.block h3{
+    font-size: 30px;
+    color: #0a0038;
+    margin: 5px;
+    margin-bottom: 15px;
+}
+.block p{
+    margin: 0px 5px;
+    color: #0a0038;
+    font-size: 18px;
+}
+.box-color1{
+    background-color: #E8D8D9;
+}
+.box-color2{
+    background-color: #DDE8E8;
+}
+.box-color3{
+    background-color: #D1CABE;
+}
